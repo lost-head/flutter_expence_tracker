@@ -136,7 +136,7 @@ class _AddExpenseState extends State<AddExpense> {
                         height: 200,
                         width: MediaQuery.of(context).size.width,
                         decoration: const BoxDecoration(
-                          color: Colors.white,˝˝
+                          color: Colors.white,
                           borderRadius: BorderRadius.vertical(
                               bottom: Radius.circular(12)),
                         ),
